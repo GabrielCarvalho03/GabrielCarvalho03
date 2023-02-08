@@ -9,7 +9,7 @@ I'm a 21 years old developer  since I was 18. I love to code and figure it out h
 and in my spare time I study to qualify myself even more.
 
 * 🌍  I'm based in São Paulo, Brazil
-* ✉️  You can contact me at [gabrielcarvalho1734@gmail.com](mailto:guilhermomasid@gmail.com)
+* ✉️  You can contact me at [gabrielcarvalho1734@gmail.com](mailto:gabrielcarvalho1734@gmail.com)
 * 🚀  I'm currently working on [Result Sistemas](http://resultsistemas.com)
 * 🧠  I'm learning Advanced Javascript, Unit Tests and C/C++ programming languages
 * 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
@@ -44,7 +44,7 @@ src="https://img.shields.io/github/followers/peguimasid?logo=github&style=for-th
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/peguimasid"><img src="https://github-readme-stats-peguimasid.vercel.app/api?username=peguimasid&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" alt="peguimasid's GitHub stats" /></a>
+<a href="http://www.github.com/peguimasid"><img src="https://github-readme-stats-GabrielCarvalho03.vercel.app/api?username=peguimasid&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" alt="peguimasid's GitHub stats" /></a>
 
 <a href="http://www.github.com/peguimasid"><img src="https://github-readme-streak-stats.herokuapp.com/?user=peguimasid&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
