@@ -10,7 +10,6 @@ and in my spare time I study to qualify myself even more.
 
 * 🌍  I'm based in São Paulo, Brazil
 * ✉️  You can contact me at [gabrielcarvalho1734@gmail.com](mailto:gabrielcarvalho1734@gmail.com)
-* 🚀  I'm currently working on [Result Sistemas](http://resultsistemas.com)
 * 🧠  I'm learning Advanced Javascript, Unit Tests and C/C++ programming languages
 * 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
 * ⚡  I love sports and my favorite is Crossfit
