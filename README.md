@@ -14,7 +14,7 @@ and in my spare time I study to qualify myself even more.
 * 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
 * ⚡  I love to play the piano
 
-<a href="https://www.github.com/peguimasid" target="_blank" rel="noreferrer"><img
+<a href="https://www.github.com/gabrielcarvalho03" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/gabrielcarvalho03?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
 
 ### Skills
