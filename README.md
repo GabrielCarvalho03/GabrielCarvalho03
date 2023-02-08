@@ -12,7 +12,7 @@ and in my spare time I study to qualify myself even more.
 * ✉️  You can contact me at [gabrielcarvalho1734@gmail.com](mailto:gabrielcarvalho1734@gmail.com)
 * 🧠  I'm learning unit testing and S.O.L.I.D methodology
 * 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
-* ⚡  I love sports and my favorite is Crossfit
+* ⚡  I love to play the piano
 
 <a href="https://www.github.com/peguimasid" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/peguimasid?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
