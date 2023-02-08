@@ -4,7 +4,7 @@ Hi 👋 My name is Gabriel
 Full Stack Software Developer
 -----------------------------
 
-I'm a 21 years old developer  since I was 18. I love to code and figure it out how to solve deep problems using high-edge tech. My main focus are front and back-end development, making applications that impact the life of thousands of users.
+I'm a 21 year old developer, programming since he was 18.. I love to code and figure it out how to solve deep problems using high-edge tech. My main focus are front and back-end development, making applications that impact the life of thousands of users.
 
 and in my spare time I study to qualify myself even more.
 
